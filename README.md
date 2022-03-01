@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Daniel!
+- 👀 I’m interested in continue to improve my programming skills
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate with ... companies that are interested in people looking for their first IT job
+- 📫 How to reach me ... danielondonoa@gmail.com
