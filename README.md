@@ -1,11 +1,30 @@
-<h1 align="center">Hi 👋, I'm Daniel Londoño</h1>
-<h3 align="center">A passionate full stack javaScript developer from Colombia</h3>
+## Hello, I'm Daniel 👋
 
-- 👯 I’m looking to collaborate with **companies that are interested in people looking for their first IT job**
+I'm a passionate full-stack JavaScript developer from Colombia, with almost 2 years of professional experience as a Node.js Developer. My enthusiasm for programming and technology has driven me to acquire a diverse set of skills and knowledge in the field of software development.
 
-- 📫 How to reach me **danielondonoa@gmail.com**
+### 💼 Work Experience
 
-- ⚡ Fun fact **I have a bachelor's degree in business management**
+Throughout my professional journey, I've had the opportunity to work on exciting and challenging projects. Some areas I have experience in include:
+
+- Node.js application development
+- Utilizing TypeScript in projects
+- Designing scalable software architectures
+- Adhering to SOLID principles
+- Effective collaboration in development teams
+
+### 👯 Collaboration
+
+I'm interested in collaborating with companies that value the passion and commitment of individuals looking for their first job in the tech industry. If your company is interested in working with an enthusiastic developer eager to learn, I'd be delighted to connect with you!
+
+### 📫 Contact Me
+
+You can reach out to me anytime via email: [danielondonoa@gmail.com](mailto:danielondonoa@gmail.com). I'm eager to connect with fellow industry professionals and learn more about exciting opportunities.
+
+### ⚡ Fun Facts
+
+In addition to my passion for programming, I hold a bachelor's degree in business management. This has provided me with a unique perspective that I combine with my technical skills to creatively tackle challenges.
+
+Thank you for visiting my GitHub profile! I'm excited about what the future holds in the world of technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
