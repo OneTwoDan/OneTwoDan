@@ -1,34 +1,38 @@
-## Hello, I'm Daniel 👋
+# Hey there! 👋
 
-I'm a passionate full-stack JavaScript developer from Colombia, with almost 2 years of professional experience as a Node.js Developer. My enthusiasm for programming and technology has driven me to acquire a diverse set of skills and knowledge in the field of software development.
+I'm Daniel, a passionate Fullstack JavaScript Developer from Colombia. With nearly 2 years of professional experience, I thrive on building awesome web applications that make a difference.
 
-### 💼 Work Experience
+## Tech Stacks I Love:
 
-Throughout my professional journey, I've had the opportunity to work on exciting and challenging projects. Some areas I have experience in include:
+- **Backend:** Node.js, TypeScript, Express.js, PostgreSQL, Sequelize.
+- **Frontend:** JavaScript, React, StencilJS, Redux, HTML, CSS.
+  
+## What I Do:
 
-- Node.js application development
-- Utilizing TypeScript in projects
-- Designing scalable software architectures
-- Adhering to SOLID principles
-- Effective collaboration in development teams
+- 🚀 Contributed to the development of a cutting-edge construction app, specializing in frontend magic.
+- 🎨 Crafted intuitive user interfaces and implemented requested styles for both desktop and mobile platforms.
+- 💼 Actively integrated essential business logic into applications, ensuring seamless functionality.
+- 💻 Over at another role, dived deep into Node.js, designing APIs, optimizing code, and collaborating closely with frontend wizards.
 
-### 👯 Collaboration
+## Let's Collaborate:
 
-I'm interested in collaborating with companies that value the passion and commitment of individuals looking for their first job in the tech industry. If your company is interested in working with an enthusiastic developer eager to learn, I'd be delighted to connect with you!
+- Looking to team up with companies that value passion and drive in the tech world. If you're into innovative projects and eager minds, let's chat!
 
-### 📫 Contact Me
+## Get in Touch:
 
-You can reach out to me anytime via email: [danielondonoa@gmail.com](mailto:danielondonoa@gmail.com). I'm eager to connect with fellow industry professionals and learn more about exciting opportunities.
+- 📧 Shoot me an email anytime at danielondonoa@gmail.com. I'm always up for a good tech chat or exploring new opportunities.
 
-### ⚡ Fun Facts
+## Fun Fact:
 
 In addition to my passion for programming, I hold a bachelor's degree in business management. This has provided me with a unique perspective that I combine with my technical skills to creatively tackle challenges.
 
-Thank you for visiting my GitHub profile! I'm excited about what the future holds in the world of technology.
+## Thanks for stopping by!
+
+Excited to see what tech adventures lie ahead. 🌟
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-londono-agudelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-londono-agudelo/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-londono-agudelo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-londono-agudelo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
