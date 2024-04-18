@@ -9,10 +9,11 @@ I'm Daniel, a passionate Fullstack JavaScript Developer from Colombia. With near
   
 ## What I Do:
 
-- 🚀 Contributed to the development of a cutting-edge construction app, specializing in frontend magic.
-- 🎨 Crafted intuitive user interfaces and implemented requested styles for both desktop and mobile platforms.
-- 💼 Actively integrated essential business logic into applications, ensuring seamless functionality.
-- 💻 Over at another role, dived deep into Node.js, designing APIs, optimizing code, and collaborating closely with frontend wizards.
+- 🚀 Building cutting-edge web applications with a focus on frontend development.
+- 🎨 Crafting intuitive user interfaces and implementing responsive designs for seamless experiences across devices.
+- 💼 Integrating essential business logic into applications to ensure functionality and efficiency.
+- 💻 Collaborating closely with cross-functional teams to deliver high-quality software solutions.
+- 🌟 Passionately staying updated with the latest technologies and best practices in the industry to continuously enhance skills and knowledge.
 
 ## Let's Collaborate:
 
