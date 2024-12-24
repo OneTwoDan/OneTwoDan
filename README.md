@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Daniel, a passionate Fullstack JavaScript Developer from Colombia. With nearly 2 years of professional experience, I thrive on building awesome web applications that make a difference.
+I'm Daniel, a passionate Fullstack JavaScript Developer from Colombia. With 2 and a half years of professional experience, I thrive on building awesome web applications that make a difference.
 
 ## Tech Stacks I Love:
 
