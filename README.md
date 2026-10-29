@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.credly.com/badges/bb5c8b29-1c9b-464c-8552-f8e2633525b3"><img src="https://img.shields.io/badge/Claude_Certified_Developer-Foundations-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Certified Developer – Foundations" /></a>
   <a href="https://www.linkedin.com/in/daniel-londono-agudelo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:daniel_lon@hotmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge" alt="Email: daniel_lon@hotmail.com" /></a>
+  <a href="mailto:danielondonoa@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge" alt="Email: danielondonoa@gmail.com" /></a>
 </p>
 
 <p align="center">
