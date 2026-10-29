@@ -1,40 +1,66 @@
-# Hey there! 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:4338ca&height=170&section=header&text=Daniel%20Londo%C3%B1o&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Senior%20Fullstack%20Engineer&descSize=18&descAlignY=66" alt="Daniel Londoño · Senior Fullstack Engineer" width="100%" />
 
-I'm Daniel, a passionate Fullstack JavaScript Developer from Colombia. With 2 and a half years of professional experience, I thrive on building awesome web applications that make a difference.
-
-## Tech Stacks I Love:
-
-- **Backend:** Node.js, TypeScript, Express.js, PostgreSQL, Sequelize.
-- **Frontend:** JavaScript, React, StencilJS, Redux, HTML, CSS.
-  
-## What I Do:
-
-- 🚀 Building cutting-edge web applications with a focus on frontend development.
-- 🎨 Crafting intuitive user interfaces and implementing responsive designs for seamless experiences across devices.
-- 💼 Integrating essential business logic into applications to ensure functionality and efficiency.
-- 💻 Collaborating closely with cross-functional teams to deliver high-quality software solutions.
-- 🌟 Passionately staying updated with the latest technologies and best practices in the industry to continuously enhance skills and knowledge.
-
-## Let's Collaborate:
-
-- Looking to team up with companies that value passion and drive in the tech world. If you're into innovative projects and eager minds, let's chat!
-
-## Get in Touch:
-
-- 📧 Shoot me an email anytime at danielondonoa@gmail.com. I'm always up for a good tech chat or exploring new opportunities.
-
-## Fun Fact:
-
-In addition to my passion for programming, I hold a bachelor's degree in business management. This has provided me with a unique perspective that I combine with my technical skills to creatively tackle challenges.
-
-## Thanks for stopping by!
-
-Excited to see what tech adventures lie ahead. 🌟
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-londono-agudelo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-londono-agudelo/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.credly.com/badges/bb5c8b29-1c9b-464c-8552-f8e2633525b3"><img src="https://img.shields.io/badge/Claude_Certified_Developer-Foundations-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Certified Developer – Foundations" /></a>
+  <a href="https://www.linkedin.com/in/daniel-londono-agudelo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:daniel_lon@hotmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge" alt="Email: daniel_lon@hotmail.com" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="center">
+  TypeScript · React · Node.js · PostgreSQL · LLM Integrations · 📍 Medellín, Colombia
+</p>
+
+## 👋 About me
+
+Fullstack engineer with **4+ years of production experience** building end-to-end web applications with TypeScript, React/Next.js and Node.js (NestJS, Express). I own features from the data layer to the UI: relational schemas and non-trivial SQL, type-safe APIs, and React interfaces that handle loading, empty and error states.
+
+I work daily with AI coding agents like Claude Code, where AI drafts and types, and tests and code review decide. A Business Management degree gives me a product mindset for data-heavy business platforms.
+
+## 🛠️ Tech stack
+
+<p>
+  <b>Frontend</b><br />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cmaterialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material-UI" />
+  </picture>
+</p>
+<p>
+  <b>Backend & databases</b><br />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cexpress%2Cgraphql%2Cpostgres%2Cmongodb%2Credis%2Cprisma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,mongodb,redis,prisma&theme=dark" alt="Node.js, NestJS, Express, GraphQL, PostgreSQL, MongoDB, Redis, Prisma" />
+  </picture>
+</p>
+<p>
+  <b>Cloud, DevOps & testing</b><br />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgithubactions%2Cjest%2Ccypress%2Cgit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,jest,cypress,git&theme=dark" alt="AWS, GCP, Docker, GitHub Actions, Jest, Cypress, Git" />
+  </picture>
+</p>
+
+<sub>Also: Oracle SQL · Drizzle · TypeORM · Sequelize · Zustand · React Testing Library · Playwright · WCAG accessibility</sub>
+
+## 🤖 AI & LLM engineering
+
+- Shipped OpenAI API integrations to production to automate internal business workflows
+- Build LLM features end to end with the Claude and OpenAI APIs: tool use, streaming responses into React UIs, and server-side validation of model output
+- Build MCP servers that give LLMs controlled access to existing APIs and data
+- AI-assisted development with Claude Code and Codex as part of my daily workflow, with types, tests and code review as the quality gate
+
+## 💼 Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **prevalentWare** | Web Developer · Digital acceleration team | Apr 2026 – Present |
+| **Technologies of Colombia** | Fullstack Developer | Sep 2025 – Mar 2026 |
+| **NetForemost** | Fullstack Developer | Aug 2024 – May 2025 |
+| **As Half Infinite** | Fullstack Developer | Sep 2023 – Aug 2024 |
+| **Zemoga** | Node.js Developer | May 2022 – Aug 2023 |
+
+## 🎓 Education & languages
+
+- **Universidad de Antioquia**: Bachelor's Degree, Business Management
+- **SENA**: Technology Degree, Software Analysis and Development (in progress)
+- 🌎 Spanish (native) · English (B2+, advanced professional proficiency)
