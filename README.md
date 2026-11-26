@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:4338ca&height=170&section=header&text=Daniel%20Londo%C3%B1o&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Senior%20Fullstack%20Engineer&descSize=18&descAlignY=66" alt="Daniel Londoño · Senior Fullstack Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:4338ca&height=170&section=header&text=Daniel%20Londo%C3%B1o&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Engineer&descSize=18&descAlignY=66" alt="Daniel Londoño · Fullstack Engineer" width="100%" />
 
 <p align="center">
   <a href="https://www.credly.com/badges/bb5c8b29-1c9b-464c-8552-f8e2633525b3"><img src="https://img.shields.io/badge/Claude_Certified_Developer-Foundations-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Certified Developer – Foundations" /></a>
